@@ -18,7 +18,7 @@ Sign up for a free account at http://lytiks.com/
 
 1. Upload all the plugin files to  to the `/wp-content/plugins/lytiks` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Get your tracking code from http://go.lytiks.com/wordpress.  If you don't already have an account, go to http://lytiks.com to signup for a free trial.
+3. Get your tracking code from http://go.lytiks.com/website/wordpress.  If you don't already have an account, go to http://lytiks.com to signup for a free account.
 4. Set the tracking ID on the plugin options page.
 
 == Frequently Asked Questions ==
@@ -34,7 +34,7 @@ A free Lytiks account will provide you with sufficent resources to track most sm
 
 == Screenshots ==
 
-1.  The Lytiks Plugin options page.  The unique tracking ID can be found at http://go.lytiks.com/wordpress.
+1.  The Lytiks Plugin options page.  The unique tracking ID can be found at http://go.lytiks.com/website/wordpress.
 
 == Changelog ==
 
