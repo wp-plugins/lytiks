@@ -12,8 +12,6 @@ Lytiks is a Marketing Performance Tracking Platform.  This plugin will insert th
 
 Lytiks provides Web Analytics, Video Tracking, Custom Form Processing, Phone Call Tracking all through a single web application.
 
-Sign up for a free account at http://lytiks.com/
-
 == Installation ==
 
 1. Upload all the plugin files to  to the `/wp-content/plugins/lytiks` directory
